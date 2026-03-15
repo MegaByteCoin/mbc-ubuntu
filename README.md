@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/platform-Ubuntu%20%2F%20Linux-0f172a?style=for-the-badge&logo=ubuntu" alt="Ubuntu">
+  <a href="[https://github.com/MegaByteCoin/mbc-win/releases/tag/v1.0.0](https://github.com/MegaByteCoin/mbc-ubuntu/releases/tag/v1.0.0)"><img src="https://img.shields.io/badge/platform-Ubuntu%20%2F%20Linux-0f172a?style=for-the-badge&logo=ubuntu" alt="Ubuntu">
   <img src="https://img.shields.io/badge/algorithm-Quark-2563eb?style=for-the-badge" alt="Quark">
   <img src="https://img.shields.io/badge/ticker-MBC-0ea5e9?style=for-the-badge" alt="MBC">
   <img src="https://img.shields.io/badge/staking-Yes-16a34a?style=for-the-badge" alt="Staking">
