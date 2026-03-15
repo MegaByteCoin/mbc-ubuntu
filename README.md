@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/algorithm-Quark-2563eb?style=for-the-badge" alt="Quark">
   <img src="https://img.shields.io/badge/ticker-MBC-0ea5e9?style=for-the-badge" alt="MBC">
   <img src="https://img.shields.io/badge/staking-Yes-16a34a?style=for-the-badge" alt="Staking">
-  <img src="https://img.shields.io/badge/masternodes-Yes = 1000 Coin-7c3aed?style=for-the-badge" alt="Masternodes">
+  <img src="https://img.shields.io/badge/masternodes-Yes-7c3aed?style=for-the-badge" alt="Masternodes">
   <img src="https://img.shields.io/badge/max_supply-1%2C000%2C000%20MBC-f59e0b?style=for-the-badge" alt="Supply">
 </p>
 
@@ -38,7 +38,7 @@ This repository contains the **Ubuntu / Linux build environment and source tree*
 | Ticker | MBC |
 | Algorithm | Quark |
 | Staking | Yes |
-| Masternodes | Yes |
+| Masternodes | Yes = 1000 Coin|
 | Max Supply | 1,000,000 MBC |
 | Mainnet Port | 18777 |
 | Block Time | 1 minute |
