@@ -58,7 +58,9 @@ This repository contains the **Ubuntu / Linux build environment and source tree*
 - **GitHub:** https://github.com/MegaByteCoin
 - **Discord:** https://megabytecoin.pp.ua/discord.php
 - **YouTube:** https://megabytecoin.pp.ua/youtube.php
-- **News Feed:** https://megabytecoin.pp.ua/feed/
+- **News Feed:** https://megabytecoin.pp.ua/feed
+- **MegaByte Core v1.0.0 Ubuntu/Linux wallet and daemon:**  https://github.com/MegaByteCoin/mbc-ubuntu/releases/tag/v1.0.0
+- **MegaByte Core v1.0.0 Windows Release:** https://github.com/MegaByteCoin/mbc-win/releases/tag/v1.0.0
 
 ---
 
