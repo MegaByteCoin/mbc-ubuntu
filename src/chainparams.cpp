@@ -187,6 +187,14 @@ genesis hash: 000007e9ec0c5c95498bd2de0f05dcabeb694663fe3c14f1d32fcb9b033d6022
         vSeeds.push_back(CDNSSeedData("31.131.21.71:18777", "31.131.21.71:18777"));
         vSeeds.push_back(CDNSSeedData("31.131.21.71:18779", "31.131.21.71:18779"));
         vSeeds.push_back(CDNSSeedData("31.131.21.71:18781", "31.131.21.71:18781"));
+		vSeeds.push_back(CDNSSeedData("41.138.197.2:18777", "41.138.197.2:18777"));
+		vSeeds.push_back(CDNSSeedData("41.138.197.3:18777", "41.138.197.2:18777"));
+		vSeeds.push_back(CDNSSeedData("41.138.197.4:18777", "41.138.197.2:18777"));
+		vSeeds.push_back(CDNSSeedData("41.138.197.5:18777", "41.138.197.2:18777"));
+		vSeeds.push_back(CDNSSeedData("41.138.197.6:18777", "41.138.197.2:18777"));
+		vSeeds.push_back(CDNSSeedData("41.138.197.7:18777", "41.138.197.2:18777"));
+		vSeeds.push_back(CDNSSeedData("41.138.197.8:18777", "41.138.197.2:18777"));
+		vSeeds.push_back(CDNSSeedData("31.131.21.71:3001", "31.131.21.71:3001"));
         vSeeds.push_back(CDNSSeedData("explorer.megabytecoin.pp.ua", "explorer.megabytecoin.pp.ua"));
 		
         fMiningRequiresPeers           = true;
